@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Christmas Tree",
+  "description": "基于手势控制的互动 3D 圣诞树，支持张合控制粒子、挥手摇摆以及 OK 手势查看照片。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
